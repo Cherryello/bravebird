@@ -1,4 +1,4 @@
-##BraveBird
+## BraveBird
 A Pokédex-like about birds for iOS 17+ (WIP). Simple as that.
 
 Main features:
